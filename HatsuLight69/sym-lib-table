@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "HatsuLight69")(type "KiCad")(uri "${KIPRJMOD}/library/HatsuLight69.kicad_sym")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/parts/kbd/kicad-symbols/kbd.kicad_sym")(options "")(descr ""))
+)
