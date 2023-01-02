@@ -25,4 +25,9 @@
   (pad "1" smd rect (at -1.2 0) (size 0.4 1.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ea1514fc-2726-4fab-802c-f225fe27393a))
   (pad "2" smd rect (at 0 0) (size 0.4 1.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4936760b-9c6e-4f0a-8f8f-345cbc1a56b7))
   (pad "3" smd rect (at 1.2 0) (size 0.4 1.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2e713657-7361-4aa5-9114-79266880ea3e))
+  (model "${KIPRJMOD}/parts/CSTNE16M0V530000R0/CSTNE16M0V530000R0.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
