@@ -1,4 +1,4 @@
-### Module positions - created on Tue Jan  3 20:29:40 2023 ###
+### Module positions - created on Tue Jan  3 23:56:07 2023 ###
 ### Printed by Pcbnew version (6.0.8)
 ## Unit = mm, Angle = deg.
 ## Side : bottom
@@ -77,6 +77,7 @@ D64       SK6812MINI          YS-SK6812MINI-E                   -57.1501     5.3
 D65       SK6812MINI          YS-SK6812MINI-E                   -38.1001     5.3577  180.0000  bottom
 D66       SK6812MINI          YS-SK6812MINI-E                   -19.0501     5.3577  180.0000  bottom
 D67       SK6812MINI          YS-SK6812MINI-E                    -0.0001     5.3577  180.0000  bottom
+J1        USB_C_Receptacle    HRS_CX70M-24P1                   -129.0637     9.5249    0.0000  bottom
 J4        SPI                 PinHeader_1x07_P2.54mm_Vertical   -86.3059   -86.9156  -15.0000  bottom
 R1        5.1k                R_0402_1005Metric                -127.3968     0.2382  180.0000  bottom
 R2        5.1k                R_0402_1005Metric                -127.3968     1.4288  180.0000  bottom
