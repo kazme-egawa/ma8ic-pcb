@@ -1,15 +1,20 @@
 [submodule "HatsuLight69/parts/keyswitches.pretty"]
-	path = HatsuLight69/parts/keyswitches.pretty
+	path = HatsuLight69_left/parts/keyswitches.pretty
 	url = git@github.com:daprice/keyswitches.pretty.git
+	ignore = dirty
 [submodule "HatsuLight69/parts/kicad_lib_tmk"]
-	path = HatsuLight69/parts/kicad_lib_tmk
+	path = HatsuLight69_left/parts/kicad_lib_tmk
 	url = git@github.com:tmk/kicad_lib_tmk.git
+	ignore = dirty
 [submodule "HatsuLight69/parts/keyboard_parts.pretty"]
-	path = HatsuLight69/parts/keyboard_parts.pretty
+	path = HatsuLight69_left/parts/keyboard_parts.pretty
 	url = git@github.com:tmk/keyboard_parts.pretty.git
+	ignore = dirty
 [submodule "HatsuLight69/parts/keebs.pretty"]
-	path = HatsuLight69/parts/keebs.pretty
+	path = HatsuLight69_left/parts/keebs.pretty
 	url = git@github.com:egladman/keebs.pretty.git
+	ignore = dirty
 [submodule "HatsuLight69/parts/kbd"]
-	path = HatsuLight69/parts/kbd
+	path = HatsuLight69_left/parts/kbd
 	url = git@github.com:foostan/kbd.git
+	ignore = dirty
