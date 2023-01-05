@@ -1,4 +1,4 @@
-### Module positions - created on Tue Jan  3 23:56:07 2023 ###
+### Module positions - created on Wed Jan  4 18:40:08 2023 ###
 ### Printed by Pcbnew version (6.0.8)
 ## Unit = mm, Angle = deg.
 ## Side : bottom
@@ -83,11 +83,11 @@ R1        5.1k                R_0402_1005Metric                -127.3968     0.2
 R2        5.1k                R_0402_1005Metric                -127.3968     1.4288  180.0000  bottom
 R3        22                  R_0402_1005Metric                -130.7306     0.2382    0.0000  bottom
 R4        22                  R_0402_1005Metric                -130.7306     1.4288    0.0000  bottom
-R5        1000                R_0402_1005Metric                -142.6368   -53.6972  180.0000  bottom
+R5        1k                  R_0402_1005Metric                -142.6368   -53.6972  180.0000  bottom
 R6        10k                 R_0402_1005Metric                -142.2799   -41.6720   90.0000  bottom
 R7        10k                 R_0402_1005Metric                -124.4205   -38.1001   90.0000  bottom
-R8        1000                R_0402_1005Metric                -142.6368   -55.4831  180.0000  bottom
-R9        1000                R_0402_1005Metric                -142.6368   -57.2690    0.0000  bottom
+R8        1k                  R_0402_1005Metric                -142.6368   -55.4831  180.0000  bottom
+R9        1k                  R_0402_1005Metric                -142.6368   -57.2690    0.0000  bottom
 R10       10k                 R_0402_1005Metric                -142.2799   -63.6986  -90.0000  bottom
 R11       10k                 R_0402_1005Metric                -141.0893   -63.6986  -90.0000  bottom
 U1        ATMEGA32U4          TQFP-44_10x10mm_P0.8mm           -133.3502   -38.1001  -135.0000  bottom
