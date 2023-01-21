@@ -1,7 +1,0 @@
-(fp_lib_table
-  (lib (name "HatsuLight69")(type "KiCad")(uri "${KIPRJMOD}/library/HatsuLight69_right.pretty")(options "")(descr ""))
-  (lib (name "keebs")(type "KiCad")(uri "${KIPRJMOD}/parts/keebs.pretty")(options "")(descr ""))
-  (lib (name "keyboard_parts")(type "KiCad")(uri "${KIPRJMOD}/parts/keyboard_parts.pretty")(options "")(descr ""))
-  (lib (name "keyswitches")(type "KiCad")(uri "${KIPRJMOD}/parts/keyswitches.pretty")(options "")(descr ""))
-  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/parts/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
-)
