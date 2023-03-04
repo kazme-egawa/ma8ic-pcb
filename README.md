@@ -1,2 +1,2 @@
-# HatsuLight-pcb
-PCB design data for HatsuLight
+# ma8ic-pcb
+PCB design data for ma8ic keyboards
