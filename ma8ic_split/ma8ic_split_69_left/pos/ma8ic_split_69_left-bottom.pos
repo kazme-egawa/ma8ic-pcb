@@ -1,0 +1,46 @@
+### Module positions - created on Sat Mar  4 13:52:21 2023 ###
+### Printed by Pcbnew version (6.0.8)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val          Package                      PosX       PosY       Rot  Side
+                                                 -0.0000     0.0000  180.0000  bottom
+                                                146.4470   -20.8359  180.0000  bottom
+                                                 -0.0000   -19.0500  180.0000  bottom
+                                                 76.2001     0.0000  180.0000  bottom
+                                                 76.2001   -55.3641  180.0000  bottom
+J2        MJ-4PP-9     MJ-4PP-9_1side           147.6073   -12.5269  -100.0000  bottom
+J3        I2C          OLED_v2                  153.3356   -74.6106  170.0000  bottom
+SW1       SW_PUSH      ResetSW_1side            147.6377   -29.1704   80.0000  bottom
+SW2       SW_PUSH-kbd  ChocV1_V2_Hotswap          9.5250    -9.5250  180.0000  bottom
+SW3       SW_PUSH-kbd  ChocV1_V2_Hotswap         28.5750    -9.5250  180.0000  bottom
+SW4       SW_PUSH-kbd  ChocV1_V2_Hotswap         47.6250    -9.5250  180.0000  bottom
+SW5       SW_PUSH-kbd  ChocV1_V2_Hotswap         66.6750    -9.5250  180.0000  bottom
+SW6       SW_PUSH-kbd  ChocV1_V2_Hotswap         85.7250    -9.5250  180.0000  bottom
+SW7       SW_PUSH-kbd  ChocV1_V2_Hotswap        104.7750    -9.5250  180.0000  bottom
+SW8       SW_PUSH-kbd  ChocV1_V2_Hotswap        123.8250    -9.5250  180.0000  bottom
+SW9       SW_PUSH-kbd  ChocV1_V2_Hotswap_1.5u    14.2875   -28.5750    0.0000  bottom
+SW10      SW_PUSH-kbd  ChocV1_V2_Hotswap         38.1000   -28.5750    0.0000  bottom
+SW11      SW_PUSH-kbd  ChocV1_V2_Hotswap         57.1500   -28.5750    0.0000  bottom
+SW12      SW_PUSH-kbd  ChocV1_V2_Hotswap         76.2000   -28.5750    0.0000  bottom
+SW13      SW_PUSH-kbd  ChocV1_V2_Hotswap         95.2500   -28.5750    0.0000  bottom
+SW14      SW_PUSH-kbd  ChocV1_V2_Hotswap        114.3000   -28.5750    0.0000  bottom
+SW15      SW_PUSH-kbd  ChocV1_V2_Hotswap        133.3500   -28.5750    0.0000  bottom
+SW16      SW_PUSH-kbd  ChocV1_V2_Hotswap_2u      19.0500   -47.6250    0.0000  bottom
+SW17      SW_PUSH-kbd  ChocV1_V2_Hotswap         47.6250   -47.6250    0.0000  bottom
+SW18      SW_PUSH-kbd  ChocV1_V2_Hotswap         66.6750   -47.6250    0.0000  bottom
+SW19      SW_PUSH-kbd  ChocV1_V2_Hotswap         85.7250   -47.6250    0.0000  bottom
+SW20      SW_PUSH-kbd  ChocV1_V2_Hotswap        104.7750   -47.6250    0.0000  bottom
+SW21      SW_PUSH-kbd  ChocV1_V2_Hotswap        123.8250   -47.6250    0.0000  bottom
+SW22      SW_PUSH-kbd  ChocV1_V2_Hotswap_2.5u    23.8125   -66.6750    0.0000  bottom
+SW23      SW_PUSH-kbd  ChocV1_V2_Hotswap         57.1500   -66.6750    0.0000  bottom
+SW24      SW_PUSH-kbd  ChocV1_V2_Hotswap         76.2000   -66.6750    0.0000  bottom
+SW25      SW_PUSH-kbd  ChocV1_V2_Hotswap         95.2500   -66.6750    0.0000  bottom
+SW26      SW_PUSH-kbd  ChocV1_V2_Hotswap        114.3000   -66.6750    0.0000  bottom
+SW27      SW_PUSH-kbd  ChocV1_V2_Hotswap        133.3500   -66.6750    0.0000  bottom
+SW28      SW_PUSH-kbd  ChocV1_V2_Hotswap          9.5250   -85.7250    0.0000  bottom
+SW29      SW_PUSH-kbd  ChocV1_V2_Hotswap         28.5750   -85.7250    0.0000  bottom
+SW30      SW_PUSH-kbd  ChocV1_V2_Hotswap         47.6250   -85.7250    0.0000  bottom
+SW31      SW_PUSH-kbd  ChocV1_V2_Hotswap_1.5u    71.4375   -85.7250    0.0000  bottom
+SW32      SW_PUSH-kbd  ChocV1_V2_Hotswap        109.5375   -92.8687   15.0000  bottom
+SW33      SW_PUSH-kbd  ChocV1_V2_Hotswap_2u     140.4938  -100.0125  -45.0000  bottom
+## End
