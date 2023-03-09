@@ -7,8 +7,8 @@
   (paper "A4")
   (title_block
     (title "HatsuLight69")
-    (date "2023-01-02")
-    (rev "0.1")
+    (date "2023-03-09")
+    (rev "0.2")
     (company "kazmeegawa")
   )
 
@@ -574,7 +574,7 @@
     (property "Sheetname" "MCU")
     (path "/80675305-77ba-49a5-8d94-84203ce621dc/8cd8f788-9449-4070-a7e0-3d58620c4abb")
     (attr through_hole)
-    (fp_text reference "J1" (at -4.472573 -7.332416 180) (layer "F.SilkS")
+    (fp_text reference "J1" (at -4.472573 -7.332416 180) (layer "F.Fab")
       (effects (font (size 0.640654 0.640654) (thickness 0.15)))
       (tstamp 6bc9ac77-3909-4070-b747-06e1cdd61a80)
     )
@@ -9109,7 +9109,7 @@
   (gr_text "=hearing" (at 78.10505 93.821225) (layer "F.SilkS") (tstamp a71daa49-b5b6-4584-bc57-d13f25118fc1)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
-  (gr_text "ma8ic split rev0.1" (at 230.385845 100.012638 -270) (layer "F.SilkS") (tstamp acf744d9-ac15-4993-b5df-923d4a532b83)
+  (gr_text "ma8ic split rev0.2" (at 230.385845 100.012638 -270) (layer "F.SilkS") (tstamp acf744d9-ac15-4993-b5df-923d4a532b83)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "SPI" (at 130.49255 112.871225 10) (layer "F.SilkS") (tstamp b42af1bb-e088-4b9a-86eb-3d2f4b7bcb2d)

@@ -6,8 +6,8 @@
 
   (title_block
     (title "HatsuLight_schematic")
-    (date "2023-01-01")
-    (rev "0.1")
+    (date "2023-03-09")
+    (rev "0.2")
     (company "kazmeegawa")
   )
 
@@ -801,7 +801,7 @@
       (reference "SW38") (unit 1) (value "SW_PUSH-kbd") (footprint "ma8ic_split_69:ChocV1_V2_Hotswap")
     )
     (path "/80675305-77ba-49a5-8d94-84203ce621dc/fbaaecbf-8991-441b-b191-8b15ad2b737b"
-      (reference "U1") (unit 1) (value "ATMEGA32U4") (footprint "ma8ic_split_69:TQFP-44_10x10mm_P0.8mm")
+      (reference "U1") (unit 1) (value "ATMEGA32U4") (footprint "ma8ic_split_69:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm")
     )
     (path "/80675305-77ba-49a5-8d94-84203ce621dc/63a1dfe4-0dd2-4919-a16b-e8e63f82171a"
       (reference "X1") (unit 1) (value "CSTNE16M0V530000R0") (footprint "ma8ic_split_69:OSC_CSTNE16M0V530000R0")
