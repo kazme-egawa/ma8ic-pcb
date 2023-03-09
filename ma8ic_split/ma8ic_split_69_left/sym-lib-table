@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/parts/kbd/kicad-symbols/kbd.kicad_sym")(options "")(descr ""))
-  (lib (name "ma8ic_split_69")(type "KiCad")(uri "C:/Users/arner/Documents/egawork/git/HatsuLight-pcb/ma8ic_split/library/ma8ic_split_69.kicad_sym")(options "")(descr ""))
-  (lib (name "keyboard_parts")(type "KiCad")(uri "${KIPRJMOD}/parts/kicad_lib_tmk/keyboard_parts.kicad_sym")(options "")(descr ""))
-)

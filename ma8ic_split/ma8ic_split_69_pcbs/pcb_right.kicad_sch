@@ -1,0 +1,46 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid fad31393-d5e2-449f-abc2-623b87e3f1f4)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 31.75 24.13) (size 34.29 8.89) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9b75fef9-d8c0-4ceb-85b0-13f91b381b01)
+    (property "Sheet name" "MCU" (id 0) (at 31.75 23.4184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "mcu_right.kicad_sch" (id 1) (at 31.75 33.6046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 31.75 45.72) (size 34.29 8.89) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid cdec274a-3570-453f-a0b4-54d8455df7ea)
+    (property "Sheet name" "key_switch" (id 0) (at 31.75 45.0084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "key_switch_right.kicad_sch" (id 1) (at 31.75 55.1946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 31.75 67.31) (size 34.29 8.89) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid eb2c5664-a8c1-44c1-8833-c4cadb357916)
+    (property "Sheet name" "items" (id 0) (at 31.75 66.5984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "items_right.kicad_sch" (id 1) (at 31.75 76.7846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+)

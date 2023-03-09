@@ -1,0 +1,53 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 132ba8ba-6892-4912-8a95-3e89d468fc92)
+
+  (paper "A4")
+
+  (title_block
+    (title "ma8ic split 69")
+    (date "2023-03-09")
+    (rev "2.0")
+    (company "kazmeegawa")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 31.75 67.31) (size 34.29 8.89) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3f536b22-9393-43a4-90d7-272f3176301c)
+    (property "Sheet name" "items" (id 0) (at 31.75 66.5984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "items_left.kicad_sch" (id 1) (at 31.75 76.7846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 31.75 24.13) (size 34.29 8.89) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 80675305-77ba-49a5-8d94-84203ce621dc)
+    (property "Sheet name" "MCU" (id 0) (at 31.75 23.4184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "mcu_left.kicad_sch" (id 1) (at 31.75 33.6046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 31.75 45.72) (size 34.29 8.89) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9f2e5dcc-c1b5-44ea-83f5-0ade3ae28a23)
+    (property "Sheet name" "key_switch" (id 0) (at 31.75 45.0084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "key_switch_left.kicad_sch" (id 1) (at 31.75 55.1946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+)
