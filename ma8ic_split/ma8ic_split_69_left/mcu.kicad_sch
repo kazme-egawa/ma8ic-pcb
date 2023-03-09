@@ -3020,7 +3020,7 @@
     (property "Value" "ATMEGA32U4" (id 1) (at 182.245 29.21 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "ma8ic_split_69:TQFP-44_10x10mm_P0.8mm" (id 2) (at 181.61 59.69 0)
+    (property "Footprint" "ma8ic_split_69:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm" (id 2) (at 181.61 59.69 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 181.61 59.69 0)
