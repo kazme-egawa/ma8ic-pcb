@@ -113,9 +113,9 @@
   (pad "" np_thru_hole circle (at -5.5 0 270) (size 1.9 1.9) (drill 1.9) (layers *.Cu) (tstamp e3879c5f-4fd1-49c6-900f-8a6d33a1a144))
   (pad "1" smd rect (at 8.3 3.7 180) (size 2.6 2.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6878c61d-b7c1-409e-ae22-4c9355347b74))
   (pad "2" smd rect (at -3.3 5.9 180) (size 2.6 2.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2e02bc9a-5f66-4622-b886-02c077fcff70))
-  (model "${KIPRJMOD}/parts/kbd/kicad-packages3D/kbd.3dshapes/kailh_choc.step"
-    (offset (xyz 0 0 -2))
+  (model "${KIPRJMOD}/parts/kailh-1350-socket-2/PG1350-socket.STEP"
+    (offset (xyz -5 -3.75 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 180 180))
+    (rotate (xyz -90 -180 0))
   )
 )
