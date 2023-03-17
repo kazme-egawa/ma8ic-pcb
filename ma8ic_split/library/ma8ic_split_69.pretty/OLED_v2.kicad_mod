@@ -24,4 +24,9 @@
   (pad "2" thru_hole circle (at -1.27 0) (size 1.7 1.7) (drill 1) (layers *.Cu "F.SilkS" "B.Mask") (tstamp b0a27492-193d-4eaf-b74c-2e22742a432e))
   (pad "3" thru_hole circle (at 1.27 0) (size 1.7 1.7) (drill 1) (layers *.Cu "F.SilkS" "B.Mask") (tstamp c5c72f6f-6854-4f8f-9301-d20f1acac891))
   (pad "4" thru_hole circle (at 3.81 0) (size 1.7 1.7) (drill 1) (layers *.Cu "F.SilkS" "B.Mask") (tstamp 4e617484-5b08-4bbb-b568-cee8d68e4e99))
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.step"
+    (offset (xyz 4 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
 )
