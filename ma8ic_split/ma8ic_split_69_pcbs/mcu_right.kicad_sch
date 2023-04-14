@@ -2197,7 +2197,7 @@
   (symbol (lib_id "power:VCCQ") (at 149.86 48.26 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 20d25ed5-b22a-460a-80c1-379384a2b301)
-    (property "Reference" "#PWR?" (id 0) (at 153.67 48.26 0)
+    (property "Reference" "#PWR0106" (id 0) (at 153.67 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCCQ" (id 1) (at 151.13 48.2599 90)
